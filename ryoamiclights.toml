@@ -1,0 +1,46 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				skeleton = true
+				spider = true
+				bat = true
+				zombie = true
+				bee = true
+				creeper = true
+				glow_squid = true
+				cow = true
+				rabbit = true
+				furnace_minecart = true
+				sheep = true
+				chest_minecart = true
+				fox = true
+				chicken = true
+				pig = true
+				squid = true
+				silverfish = true
+				item = true
+
+			[light_sources.settings.entities.alexsmobs]
+				rocky_roller = true
+				cockroach = true
+				fly = true
+				laviathan = true
+				grizzly_bear = true
+
+			[light_sources.settings.entities.quark]
+				shiba = true
+				glass_frame = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
